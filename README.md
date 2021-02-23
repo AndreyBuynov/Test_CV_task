@@ -1,4 +1,4 @@
-# Test_CV_task
+# [Test_CV_task](https://github.com/AndreyBuynov/Test_CV_task/blob/main/Test_CV_task.ipynb)
 Тестовое задание на классификацию изображений
 
 Задание:
